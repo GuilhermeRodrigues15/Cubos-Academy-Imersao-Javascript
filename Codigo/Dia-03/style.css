@@ -1,0 +1,99 @@
+* {
+    padding: 0px;
+    margin: 0;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+body {
+    font-size: 0;
+    background: #1b1b38;
+    text-align: center;
+}
+
+.titulo{
+    color: rgb(214, 214, 214);
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+.placar {
+    width: 900px;
+    height: 500px;
+    background: #272749;
+    border-radius: 5px;
+    margin: 35px auto;
+    box-shadow: 0 0 1rem #c801da;
+}
+ 
+.metade {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.timeA, .timeB {
+    color: rgb(214, 214, 214);
+    font-size: 20px;
+    padding: 20px 0;
+    box-sizing: border-box;
+    height: 60px;
+}
+
+.content {
+    box-sizing: border-box;
+    height: 360px;
+    border-top: 1px solid #c801da;
+    border-bottom: 1px solid #c801da; 
+    padding: 105px 0;
+    font-size: 0;
+    color: rgb(214, 214, 214);
+}
+
+.sets-group {
+    box-sizing: border-box;
+    height: 80px;
+    font-size: 0px;
+    color: rgb(139, 130, 130);
+    padding: 20px 0;
+}
+
+.score-a {
+    border-right: 1px solid #c801da;
+    font-size: 150px;
+    user-select: none;
+}
+
+.score-b {
+    font-size: 150px;
+    user-select: none;
+}
+
+.set-a {
+    border-right: 1px solid #c801da; 
+    font-size: 40px;
+    user-select: none;
+} 
+
+.set-b {
+    font-size: 40px;
+    user-select: none;
+}
+
+.zerar{
+    width: 200px;
+    height: 55px;
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: rgb(139, 130, 130);
+    background: #272749;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 0.5rem #9f02adef;
+}
+
+#marca {
+    margin-top: 30px;
+    text-align: center;
+}

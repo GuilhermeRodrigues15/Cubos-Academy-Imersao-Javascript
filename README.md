@@ -1,1 +1,1 @@
-# Cubos-Academy-Imersão-Javascrit
+# Cubos-Academy-Imersão-Javascript
